@@ -37,5 +37,6 @@
   
   # Deployed Link :-
     https://timely-salamander-0ed693.netlify.app/
+    please open this link in micorsoft edge,mozilla firefox etc. not on chorme as it is an netlified link.
     
   
