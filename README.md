@@ -19,10 +19,10 @@
     HTML 5, CSS, JavaScript and LocalStorage
     
   ## Team Members :-
-  - Dikshant Singh Bisht
+  - Munna Gupta
   - Lalit Singh
   - Sonu Gupta
-  - Munna Gupta
+  - Dikshant Singh Bisht
   - Raja
   
   ## Clone Snaps :-
